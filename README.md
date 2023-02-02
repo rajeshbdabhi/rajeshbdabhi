@@ -6,7 +6,7 @@
 
 ## About Me <img src="https://c.tenor.com/uZFq07-ujK8AAAAi/man-shrugging-joypixels.gif" width="28"/>
 * 💻 I'm currently working at <a href="http://zuum.ca">Zuum Global Service Inc.</a> 
-* ⚡ Contribuing to a whole bunch of <a href="http://github.com/rajeshbdabhi">opensource</a> projects.
+* ⚡ Contribuing to a whole bunch of <a href="https://github.com/rajeshbdabhi?tab=repositories">opensource</a> projects.
 * 🌱 Always experimenting with bleading edge tech. 
 * ⛰️ Love exploring and going on hikes
 <p align="center">
